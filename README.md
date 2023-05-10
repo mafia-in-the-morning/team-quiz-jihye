@@ -23,6 +23,12 @@ Monster 클래스
 2. offensivePower(공격력)데이터가 필요하다.
 3. doMonsterOffensive 메소드가 필요하다.
 
+<main 패키지>
+
+Main 클래스
+1. 메인 메소드 포함
+2. 용사와 몬스터 객체 생성 후 게임 시작
+
 
 ## 요구사항 🌷
 1. 용사의 이름을 입력받는다.
